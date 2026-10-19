@@ -39,6 +39,7 @@
 
 - 学习文档：[飞书文档](https://my.feishu.cn/wiki/Qzl8wFIfKiksMskyEqMc02sYnXf)
 - 视频学习链接：[Bilibili](https://www.bilibili.com/video/BV1nNNb6cER7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=339f0240733dcda285627ff53cbd145f)
+- 进阶版（含主控）学习视频：[Bilibili含主控](https://www.bilibili.com/video/BV1uxp46SEoU/?vd_source=339f0240733dcda285627ff53cbd145f)
 - 虚拟机镜像：[百度网盘](https://pan.baidu.com/s/1cjOiwqZdjTcRxwIW4gEIOg?pwd=vst7)，提取码：`vst7`
 
 ## 适合人群
@@ -55,8 +56,6 @@
 **如果想要购买贴片好的 PCB 板、散件、配件或者成品机器人，可以直接联系博主。**
 
 淘宝购买链接：[LEAP ROS2 开源机器人](https://item.taobao.com/item.htm?ft=t&id=1064850611171&spm=a21dvs.23580594.0.0.3f062c1b3ZDGGt)
-
-闲鱼购买链接：[LEAP ROS2 开源机器人](https://www.goofish.com/item?spm=a21ybx.personal.feeds.1.37d16ac2npS95O&id=994859528996&categoryId=50023914)
 
 ## 使用声明与交流
 
