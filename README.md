@@ -17,7 +17,7 @@
 | 配置 | 说明 | 参考成本 | 单片机源码 |
 | --- | --- | --- | --- |
 | LEAP_ROS | 原有配置，适合低成本入门和动手实践 | 约 200 元 | [leap_ros_mcu_driver](https://github.com/czu963889306-dev/leap_ros_mcu_driver) |
-| LEAP_ROS_MAX | 新增四驱麦克纳姆轮配置，可根据需求和预算选择 | 约 400 元 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
+| LEAP_ROS_MAX | 新增麦克纳姆轮配置，可根据需求和预算选择 | 约 400 元 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
 
 以上为制作参考成本，实际成本会随配件选型、采购渠道和采购数量变化，成品及配件售价请联系博主咨询。
 
@@ -28,7 +28,7 @@
 | 模块 | 说明 | 源码仓库 |
 | --- | --- | --- |
 | LEAP_ROS 单片机驱动 | LEAP_ROS 配置的底层单片机控制代码 | [leap_ros_mcu_driver](https://github.com/czu963889306-dev/leap_ros_mcu_driver) |
-| LEAP_ROS_MAX 单片机驱动 | LEAP_ROS_MAX 四驱配置的底层单片机控制代码 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
+| LEAP_ROS_MAX 单片机驱动 | LEAP_ROS_MAX 麦克纳姆轮配置的底层单片机控制代码 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
 | WiFi 图传 | ESP32-S3 WiFi 摄像头图传源码 | [esp32_s3_wifi_camera](https://github.com/czu963889306-dev/esp32_s3_wifi_camera) |
 | ROS 功能包 | ROS2 工作空间与功能包源码 | [leap_ros_ws](https://github.com/czu963889306-dev/leap_ros_ws) |
 
@@ -68,7 +68,7 @@
 | 配置 | 说明 | 淘宝购买链接 |
 | --- | --- | --- |
 | LEAP_ROS | 原有配置，制作参考成本约 200 元 | [购买 LEAP_ROS](https://item.taobao.com/item.htm?ft=t&id=1064850611171&spm=a21dvs.23580594.0.0.3f062c1b3ZDGGt) |
-| LEAP_ROS_MAX | 四驱配置，制作参考成本 400 多元 | [购买 LEAP_ROS_MAX](https://item.taobao.com/item.htm?abbucket=20&id=1089241377336&mi_id=0000ET3fb_KiIW4VhASN5uTCuZD_0xEe1QxNPIAL9M1xc7E&ns=1&skuId=6313650887438&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22e66b19880a8cfa4a4d7b5d141d7cffac%22%7D&xxc=qcpx) |
+| LEAP_ROS_MAX | 麦克纳姆轮配置，制作参考成本 400 多元 | [购买 LEAP_ROS_MAX](https://item.taobao.com/item.htm?abbucket=20&id=1089241377336&mi_id=0000ET3fb_KiIW4VhASN5uTCuZD_0xEe1QxNPIAL9M1xc7E&ns=1&skuId=6313650887438&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22e66b19880a8cfa4a4d7b5d141d7cffac%22%7D&xxc=qcpx) |
 
 请根据所需配置选择对应链接，具体售价和可选配件以商品页面为准。
 
