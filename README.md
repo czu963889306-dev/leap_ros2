@@ -1,5 +1,7 @@
 # LEAP ROS2 开源机器人
 
+![LEAP ROS2 开源机器人](leap_ros.png)
+
 > 交流 QQ 群：`1055265929`
 
 ## 项目初衷
