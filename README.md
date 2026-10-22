@@ -10,7 +10,7 @@
 
 现在市面上很多 ROS 机器人学习套件价格并不低，动辄几千元的成品机器人，对不少学生来说门槛太高，往往还没开始学习就已经望而却步。机器人技术本身应该是可以被更多人接触、拆解、复现和改进的，而不应该只停留在昂贵设备和成品套件里。
 
-因此，我推出了 LEAP ROS2 开源机器人，目前提供 LEAP_ROS 和 LEAP_ROS_MAX 两种配置，参考成本分别约为 200 元和400 元。项目尽量使用常见、容易购买、价格友好的器件，让大家可以从硬件组装、固件烧录、ROS2 环境搭建、节点通信、传感器接入、运动控制等环节一步步理解机器人系统是如何工作的。
+因此，我推出了 LEAP ROS2 开源机器人，目前提供 LEAP_ROS 和 LEAP_ROS_MAX 两种配置，参考成本分别约为 200 元和 600 元。项目尽量使用常见、容易购买、价格友好的器件，让大家可以从硬件组装、固件烧录、ROS2 环境搭建、节点通信、传感器接入、运动控制等环节一步步理解机器人系统是如何工作的。
 
 这个项目更适合愿意动手实践的人：你可以根据开源资料自行打板、焊接、采购配件、打印外壳，也可以在现有设计基础上继续修改和扩展。希望它不仅是一台低成本小车，更是一个适合入门、教学、比赛准备和二次开发的 ROS2 学习平台。
 
@@ -19,7 +19,7 @@
 | 配置 | 说明 | 参考成本 | 单片机源码 |
 | --- | --- | --- | --- |
 | LEAP_ROS | 原有配置，适合低成本入门和动手实践 | 约 200 元 | [leap_ros_mcu_driver](https://github.com/czu963889306-dev/leap_ros_mcu_driver) |
-| LEAP_ROS_MAX | 新增麦克纳姆轮配置，可根据需求和预算选择 | 约 400 元 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
+| LEAP_ROS_MAX | 新增麦克纳姆轮配置，可根据需求和预算选择 | 约 600 元 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
 
 以上为制作参考成本，实际成本会随配件选型、采购渠道和采购数量变化，成品及配件售价请联系博主咨询。
 
@@ -33,6 +33,7 @@
 | LEAP_ROS_MAX 单片机驱动 | LEAP_ROS_MAX 麦克纳姆轮配置的底层单片机控制代码 | [leap_ros_max_mcu_driver](https://github.com/czu963889306-dev/leap_ros_max_mcu_driver) |
 | WiFi 图传 | ESP32-S3 WiFi 摄像头图传源码 | [esp32_s3_wifi_camera](https://github.com/czu963889306-dev/esp32_s3_wifi_camera) |
 | ROS 功能包 | ROS2 工作空间与功能包源码 | [leap_ros_ws](https://github.com/czu963889306-dev/leap_ros_ws) |
+| AI 大模型助手 | AI 大模型语音助手客户端 | [voice_assistant_client](https://github.com/czu963889306-dev/voice_assistant_client) |
 
 本仓库主要包含以下内容：
 
@@ -44,7 +45,7 @@
 ## 使用方式
 
 1. 根据需求和预算选择 LEAP_ROS 或 LEAP_ROS_MAX 配置，并核对所选配置的硬件资料。
-2. 根据所选配置进入对应的单片机源码仓库，再按需要获取 WiFi 图传和 ROS 功能包代码。
+2. 根据所选配置进入对应的单片机源码仓库，再按需要获取 WiFi 图传、ROS 功能包和 AI 大模型助手代码。
 3. 按各源码仓库 README 或说明文档完成编译、烧录和运行。
 
 ## 学习资料
@@ -71,7 +72,7 @@
 | 配置 | 说明 | 淘宝购买链接 |
 | --- | --- | --- |
 | LEAP_ROS | 原有配置，制作参考成本约 200 元 | [购买 LEAP_ROS](https://item.taobao.com/item.htm?ft=t&id=1064850611171&spm=a21dvs.23580594.0.0.3f062c1b3ZDGGt) |
-| LEAP_ROS_MAX | 麦克纳姆轮配置，制作参考成本 400 多元 | [购买 LEAP_ROS_MAX](https://item.taobao.com/item.htm?abbucket=20&id=1089241377336&mi_id=0000ET3fb_KiIW4VhASN5uTCuZD_0xEe1QxNPIAL9M1xc7E&ns=1&skuId=6313650887438&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22e66b19880a8cfa4a4d7b5d141d7cffac%22%7D&xxc=qcpx) |
+| LEAP_ROS_MAX | 麦克纳姆轮配置，制作参考成本约 600 元 | [购买 LEAP_ROS_MAX](https://item.taobao.com/item.htm?abbucket=20&id=1089241377336&mi_id=0000ET3fb_KiIW4VhASN5uTCuZD_0xEe1QxNPIAL9M1xc7E&ns=1&skuId=6313650887438&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22e66b19880a8cfa4a4d7b5d141d7cffac%22%7D&xxc=qcpx) |
 
 请根据所需配置选择对应链接，具体售价和可选配件以商品页面为准。
 
