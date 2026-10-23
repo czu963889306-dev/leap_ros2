@@ -50,11 +50,20 @@
 
 ## 学习资料
 
-- 学习文档：[飞书文档](https://my.feishu.cn/wiki/Qzl8wFIfKiksMskyEqMc02sYnXf)
+### 通用学习资料
+
 - 视频学习链接：[Bilibili](https://www.bilibili.com/video/BV1nNNb6cER7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=339f0240733dcda285627ff53cbd145f)
 - 进阶版（含主控）学习视频：[Bilibili含主控](https://www.bilibili.com/video/BV1uxp46SEoU/?vd_source=339f0240733dcda285627ff53cbd145f)
-- LEAP_ROS 二驱 虚拟机镜像[百度网盘](https://pan.baidu.com/s/1cjOiwqZdjTcRxwIW4gEIOg?pwd=vst7)，提取码：`vst7`
-- LEAP_ROS_MAX 四驱麦轮 虚拟机镜像：[百度网盘](https://pan.baidu.com/s/13MsQBEHg_bm8DopCmByyfA?pwd=w6v5)，提取码：`w6v5`
+
+### LEAP_ROS
+
+- 学习文档（飞书）：[LEAP_ROS 学习文档](https://my.feishu.cn/wiki/Qzl8wFIfKiksMskyEqMc02sYnXf)
+- 二驱虚拟机镜像：[百度网盘](https://pan.baidu.com/s/1cjOiwqZdjTcRxwIW4gEIOg?pwd=vst7)，提取码：`vst7`
+
+### LEAP_ROS_MAX
+
+- 学习文档（飞书）：[LEAP_ROS_MAX 学习文档](https://my.feishu.cn/docx/Mo78dfVM3ogy5CxIhXmcVKTGnKe)
+- 四驱麦轮虚拟机镜像：[百度网盘](https://pan.baidu.com/s/13MsQBEHg_bm8DopCmByyfA?pwd=w6v5)，提取码：`w6v5`
 
 ## 适合人群
 
