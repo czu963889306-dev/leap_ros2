@@ -63,7 +63,7 @@
 ### LEAP_ROS_MAX
 
 - 学习文档（飞书）：[LEAP_ROS_MAX 学习文档](https://my.feishu.cn/docx/Mo78dfVM3ogy5CxIhXmcVKTGnKe)
-- 四驱麦轮虚拟机镜像：[百度网盘](https://pan.baidu.com/s/13MsQBEHg_bm8DopCmByyfA?pwd=w6v5)，提取码：`w6v5`
+- 四驱麦轮瑞芯微镜像：[百度网盘](https://pan.baidu.com/s/13MsQBEHg_bm8DopCmByyfA?pwd=w6v5)，提取码：`w6v5`
 
 ## 适合人群
 
